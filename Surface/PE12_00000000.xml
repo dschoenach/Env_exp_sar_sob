@@ -1,0 +1,3848 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>12h Precipitation</VAR>
+<UNIT>mm/12h</UNIT>
+<PERIOD>20211110-20211130</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.176666662     </MEAN_OBS>
+ <STDV_OBS>   6.03619926E-02 </STDV_OBS>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>REF</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   1.89120974E-02 </MEAN>
+ <STDV>   4.05982132E-28 </STDV>
+ <BIAS>  0.212143272     </BIAS>
+ <RMSE> -0.245458409     </RMSE>
+ <CORR>   4.05602291E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.211728781     </BIAS>
+ <RMSE> -0.245189175     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>  0.148657650     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.211634755     </BIAS>
+ <RMSE> -0.245207042     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>  0.147751018     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.211856425     </BIAS>
+ <RMSE> -0.245206490     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>  0.144656122     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.211177960     </BIAS>
+ <RMSE> -0.245372877     </RMSE>
+ <CORR>  0.155274481     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>  0.148468390     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.211696133     </BIAS>
+ <RMSE> -0.245127901     </RMSE>
+ <CORR>  0.158873022     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.949189246     </MEAN_OBS>
+ <STDV_OBS>   1.17601573     </STDV_OBS>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>REF</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>  0.803748548     </MEAN>
+ <STDV>   1.18182446E-22 </STDV>
+ <BIAS>   1.36206543     </BIAS>
+ <RMSE>  0.303056508     </RMSE>
+ <CORR>   4.04349858E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.29507542     </BIAS>
+ <RMSE>  0.263453394     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   32481.5723     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29815662     </BIAS>
+ <RMSE>  0.273748070     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   30962.9883     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.27914178     </BIAS>
+ <RMSE>  0.305251092     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   31231.4395     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.28839874     </BIAS>
+ <RMSE>  0.292395234     </RMSE>
+ <CORR>   33859.3555     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   31770.0840     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.25632763     </BIAS>
+ <RMSE>  0.328945786     </RMSE>
+ <CORR>   34742.2812     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29723763     </MEAN_OBS>
+ <STDV_OBS>   1.48005891     </STDV_OBS>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>REF</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>  0.778770626     </MEAN>
+ <STDV>   8.13804687E-23 </STDV>
+ <BIAS>   1.67389631     </BIAS>
+ <RMSE>  0.485287726     </RMSE>
+ <CORR>   4.04225780E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.62035859     </BIAS>
+ <RMSE>  0.494920760     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   17475.7793     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56488502     </BIAS>
+ <RMSE>  0.504577100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   17560.2988     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61975420     </BIAS>
+ <RMSE>  0.488753438     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   17329.9043     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.56592214     </BIAS>
+ <RMSE>  0.514741898     </RMSE>
+ <CORR>   21080.5449     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   17511.8750     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.60673785     </BIAS>
+ <RMSE>  0.484261364     </RMSE>
+ <CORR>   21372.9355     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.102702767     </MEAN_OBS>
+ <STDV_OBS>   9.49103683E-02 </STDV_OBS>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>REF</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   2.87061054E-02 </MEAN>
+ <STDV>   4.04222699E-28 </STDV>
+ <BIAS>  0.179366142     </BIAS>
+ <RMSE>  0.258073479     </RMSE>
+ <CORR>   4.05606913E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.184294894     </BIAS>
+ <RMSE>  0.249554813     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   16888.0391     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.173072174     </BIAS>
+ <RMSE>  0.258055419     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   17025.4609     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.162920356     </BIAS>
+ <RMSE>  0.284361064     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   16601.6270     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.170656338     </BIAS>
+ <RMSE>  0.282522708     </RMSE>
+ <CORR>   16683.7539     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   16849.1621     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.167652637     </BIAS>
+ <RMSE>  0.263284206     </RMSE>
+ <CORR>   16926.6914     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.33920491     </MEAN_OBS>
+ <STDV_OBS>   1.65234411     </STDV_OBS>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>REF</NAME>
+ <NUM>         176 </NUM>
+ <MEAN>  0.825732410     </MEAN>
+ <STDV>   4.04225780E-28 </STDV>
+ <BIAS>   1.66011000     </BIAS>
+ <RMSE>  0.321653217     </RMSE>
+ <CORR>   4.04349810E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         176 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.74005437     </BIAS>
+ <RMSE>  0.322471380     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         176 </NUM>
+ <MEAN>   8635.99902     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.72814786     </BIAS>
+ <RMSE>  0.308789283     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         176 </NUM>
+ <MEAN>   8314.72168     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65945089     </BIAS>
+ <RMSE>  0.292610884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         176 </NUM>
+ <MEAN>   8792.18555     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.77553415     </BIAS>
+ <RMSE>  0.328770190     </RMSE>
+ <CORR>   38843.9961     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         176 </NUM>
+ <MEAN>   8489.78320     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.83687091     </BIAS>
+ <RMSE>  0.283763587     </RMSE>
+ <CORR>   38985.1094     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.06756759     </MEAN_OBS>
+ <STDV_OBS>   1.45482719     </STDV_OBS>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>REF</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>  0.808796525     </MEAN>
+ <STDV>   4.05606913E-28 </STDV>
+ <BIAS>   1.61403811     </BIAS>
+ <RMSE>  0.419800997     </RMSE>
+ <CORR>   4.06008373E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.73465347     </BIAS>
+ <RMSE>  0.347277105     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   22193.2363     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58821678     </BIAS>
+ <RMSE>  0.387171358     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   21539.8340     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59729171     </BIAS>
+ <RMSE>  0.382104039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   22571.3770     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.52294636     </BIAS>
+ <RMSE>  0.397701830     </RMSE>
+ <CORR>   22571.4863     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   22196.1621     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.59095967     </BIAS>
+ <RMSE>  0.365013748     </RMSE>
+ <CORR>   22196.2930     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.52216244     </MEAN_OBS>
+ <STDV_OBS>   1.54043996     </STDV_OBS>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>REF</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>  0.819886446     </MEAN>
+ <STDV>   4.04349810E-28 </STDV>
+ <BIAS>   1.63363028     </BIAS>
+ <RMSE>  0.583228827     </RMSE>
+ <CORR>   1.17716500E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.62889266     </BIAS>
+ <RMSE>  0.589714527     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   21714.0234     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56670475     </BIAS>
+ <RMSE>  0.605400205     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   21584.9570     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56526220     </BIAS>
+ <RMSE>  0.567778170     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   21358.7246     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.77674174     </BIAS>
+ <RMSE>  0.590993285     </RMSE>
+ <CORR>   26901.0684     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   21723.8535     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.54895592     </BIAS>
+ <RMSE>  0.578420639     </RMSE>
+ <CORR>   27166.9883     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.804324031     </MEAN_OBS>
+ <STDV_OBS>   1.27879918     </STDV_OBS>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>REF</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>  0.627779782     </MEAN>
+ <STDV>   4.06008373E-28 </STDV>
+ <BIAS>   1.09117854     </BIAS>
+ <RMSE>  0.603603899     </RMSE>
+ <CORR>   4.05982132E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.23411214     </BIAS>
+ <RMSE>  0.556755424     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   18212.6426     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14916956     </BIAS>
+ <RMSE>  0.578362942     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   17939.0645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12516332     </BIAS>
+ <RMSE>  0.591262758     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   17943.0410     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.31075811     </BIAS>
+ <RMSE>  0.559713364     </RMSE>
+ <CORR>   22452.9648     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         185 </NUM>
+ <MEAN>   18174.2148     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.12935960     </BIAS>
+ <RMSE>  0.595958889     </RMSE>
+ <CORR>   22489.8418     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.312195152     </MEAN_OBS>
+ <STDV_OBS>   2.49473633E-05 </STDV_OBS>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>REF</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   4.62081334E-06 </MEAN>
+ <STDV>   1.17716500E-22 </STDV>
+ <BIAS>  0.366389960     </BIAS>
+ <RMSE>  -5.40142832E-03 </RMSE>
+ <CORR>   8.24003081E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.366390467     </BIAS>
+ <RMSE>  -2.61758734E-02 </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   19167.5039     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.366390377     </BIAS>
+ <RMSE>  -2.08089612E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   19145.7109     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.366390347     </BIAS>
+ <RMSE>  -1.77565198E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   19125.6250     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.366390616     </BIAS>
+ <RMSE>  -3.30728665E-02 </RMSE>
+ <CORR>   21334.9023     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   19047.1133     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.366390377     </BIAS>
+ <RMSE>  -2.09134463E-02 </RMSE>
+ <CORR>   21507.4199     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.205128208     </MEAN_OBS>
+ <STDV_OBS>  0.780687451     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>REF</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>  0.192702547     </MEAN>
+ <STDV>   1.17716500E-22 </STDV>
+ <BIAS>  0.600525379     </BIAS>
+ <RMSE>  0.650536537     </RMSE>
+ <CORR>   4.04225829E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.600037754     </BIAS>
+ <RMSE>  0.651026607     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   14668.6934     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.604708016     </BIAS>
+ <RMSE>  0.651328862     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   14814.2178     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.605117381     </BIAS>
+ <RMSE>  0.649924695     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   14375.6348     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.596969903     </BIAS>
+ <RMSE>  0.646285295     </RMSE>
+ <CORR>   34684.0586     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   14796.0449     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.606427491     </BIAS>
+ <RMSE>  0.647605479     </RMSE>
+ <CORR>   34591.0430     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.49101813E-02 </MEAN_OBS>
+ <STDV_OBS>  0.129476398     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>REF</NAME>
+ <NUM>         334 </NUM>
+ <MEAN>   4.22058217E-02 </MEAN>
+ <STDV>   8.11806281E-23 </STDV>
+ <BIAS>  0.133447230     </BIAS>
+ <RMSE>  0.477946103     </RMSE>
+ <CORR>   1.18182433E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         334 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.141806021     </BIAS>
+ <RMSE>  0.444083512     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         334 </NUM>
+ <MEAN>   15099.4150     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.146592781     </BIAS>
+ <RMSE>  0.427663684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         334 </NUM>
+ <MEAN>   15049.2842     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.155105248     </BIAS>
+ <RMSE>  0.396444410     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         334 </NUM>
+ <MEAN>   15169.7197     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.138059601     </BIAS>
+ <RMSE>  0.467773676     </RMSE>
+ <CORR>   27910.5020     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         334 </NUM>
+ <MEAN>   15250.6221     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.142437816     </BIAS>
+ <RMSE>  0.440739930     </RMSE>
+ <CORR>   27738.1641     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.08333340E-02 </MEAN_OBS>
+ <STDV_OBS>  0.140243948     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>REF</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>   4.51812819E-02 </MEAN>
+ <STDV>   4.04225829E-28 </STDV>
+ <BIAS>  0.135396942     </BIAS>
+ <RMSE>  0.394467026     </RMSE>
+ <CORR>   8.24003018E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.149424240     </BIAS>
+ <RMSE>  0.338441789     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>   14209.7021     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.142110258     </BIAS>
+ <RMSE>  0.363329142     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>   14323.3154     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.142956913     </BIAS>
+ <RMSE>  0.366123199     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>   14101.2744     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.153569266     </BIAS>
+ <RMSE>  0.329329163     </RMSE>
+ <CORR>   25482.6465     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>   14226.4072     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.157136112     </BIAS>
+ <RMSE>  0.315342069     </RMSE>
+ <CORR>   25414.2910     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.165671632     </MEAN_OBS>
+ <STDV_OBS>  0.561546504     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>REF</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>  0.127565771     </MEAN>
+ <STDV>   4.06117670E-28 </STDV>
+ <BIAS>  0.595637262     </BIAS>
+ <RMSE>  0.466845125     </RMSE>
+ <CORR>   4.04222747E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.606136918     </BIAS>
+ <RMSE>  0.457028717     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   15280.3789     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.598123014     </BIAS>
+ <RMSE>  0.465273440     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   15389.3203     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.602940798     </BIAS>
+ <RMSE>  0.459155291     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   15123.2168     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.598213971     </BIAS>
+ <RMSE>  0.465431601     </RMSE>
+ <CORR>   35581.3086     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   15298.4688     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.597316146     </BIAS>
+ <RMSE>  0.466234028     </RMSE>
+ <CORR>   35513.8945     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.322123975     </MEAN_OBS>
+ <STDV_OBS>  0.627609313     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>REF</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>  0.151892856     </MEAN>
+ <STDV>   4.04221206E-28 </STDV>
+ <BIAS>  0.732985020     </BIAS>
+ <RMSE>  0.679031193     </RMSE>
+ <CORR>   8.25819354E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.734285653     </BIAS>
+ <RMSE>  0.677288651     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   16094.9844     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.733864605     </BIAS>
+ <RMSE>  0.677783906     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   16075.2666     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.732420743     </BIAS>
+ <RMSE>  0.679789484     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   16113.8311     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.736834705     </BIAS>
+ <RMSE>  0.673928499     </RMSE>
+ <CORR>   31572.0078     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   16087.3877     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.732444525     </BIAS>
+ <RMSE>  0.679555178     </RMSE>
+ <CORR>   31346.9043     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.252032518     </MEAN_OBS>
+ <STDV_OBS>  0.480689853     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>  0.105054632     </MEAN>
+ <STDV>   1.17730662E-22 </STDV>
+ <BIAS>  0.748624444     </BIAS>
+ <RMSE>  0.627225935     </RMSE>
+ <CORR>   1.18182446E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.750084400     </BIAS>
+ <RMSE>  0.626296461     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   13862.6543     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.749900579     </BIAS>
+ <RMSE>  0.626692951     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   13974.5342     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.748609066     </BIAS>
+ <RMSE>  0.628328145     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   13642.8994     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.753754020     </BIAS>
+ <RMSE>  0.618204892     </RMSE>
+ <CORR>   33070.8945     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   13920.5498     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.750151217     </BIAS>
+ <RMSE>  0.626233220     </RMSE>
+ <CORR>   32915.5547     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15225875     </MEAN_OBS>
+ <STDV_OBS>   2.25056338     </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>REF</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   1.41486382     </MEAN>
+ <STDV>   8.13804687E-23 </STDV>
+ <BIAS>   2.08383822     </BIAS>
+ <RMSE>  0.303998798     </RMSE>
+ <CORR>   8.24003018E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   2.41184378     </BIAS>
+ <RMSE>  0.261004031     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   11930.6377     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.19052649     </BIAS>
+ <RMSE>  0.351639152     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   12013.6621     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.12820768     </BIAS>
+ <RMSE>  0.312861115     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   12099.9336     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   2.04922891     </BIAS>
+ <RMSE>  0.342077285     </RMSE>
+ <CORR>   17529.5859     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   11996.2412     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   2.31831884     </BIAS>
+ <RMSE>  0.236083329     </RMSE>
+ <CORR>   17330.9102     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.40029001     </MEAN_OBS>
+ <STDV_OBS>   2.80602312     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>REF</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   1.80963492     </MEAN>
+ <STDV>   1.18182446E-22 </STDV>
+ <BIAS>   2.78145862     </BIAS>
+ <RMSE>  0.455663770     </RMSE>
+ <CORR>   4.04222699E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   2.69734740     </BIAS>
+ <RMSE>  0.449487090     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   20764.1836     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.62305403     </BIAS>
+ <RMSE>  0.465774506     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   20747.7305     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.68646693     </BIAS>
+ <RMSE>  0.451142579     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   20791.5117     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   2.66863704     </BIAS>
+ <RMSE>  0.443404973     </RMSE>
+ <CORR>   31489.1797     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   20613.5312     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   2.62085295     </BIAS>
+ <RMSE>  0.463635325     </RMSE>
+ <CORR>   31450.8457     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.334848583     </MEAN_OBS>
+ <STDV_OBS>  0.960345924     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>REF</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.404347360     </MEAN>
+ <STDV>   4.04225829E-28 </STDV>
+ <BIAS>  0.841878414     </BIAS>
+ <RMSE>  0.520725548     </RMSE>
+ <CORR>   4.06134618E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.837605476     </BIAS>
+ <RMSE>  0.527375579     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.301281333     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.823759973     </BIAS>
+ <RMSE>  0.518887818     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.301609248     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.808181047     </BIAS>
+ <RMSE>  0.517559469     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.303977787     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.807396710     </BIAS>
+ <RMSE>  0.493771881     </RMSE>
+ <CORR>  0.304617882     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.301194489     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.818692207     </BIAS>
+ <RMSE>  0.520927846     </RMSE>
+ <CORR>  0.301441789     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.334944218     </MEAN_OBS>
+ <STDV_OBS>  0.828614235     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>REF</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.453695983     </MEAN>
+ <STDV>   4.04349810E-28 </STDV>
+ <BIAS>  0.924714744     </BIAS>
+ <RMSE>  0.363955438     </RMSE>
+ <CORR>   4.05747169E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.939547360     </BIAS>
+ <RMSE>  0.356528968     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   18089.0840     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.894867599     </BIAS>
+ <RMSE>  0.386056393     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   17989.5820     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.876132786     </BIAS>
+ <RMSE>  0.399783581     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   17870.7852     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.922003686     </BIAS>
+ <RMSE>  0.363745868     </RMSE>
+ <CORR>   31461.8105     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   17940.2656     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.900690198     </BIAS>
+ <RMSE>  0.380747795     </RMSE>
+ <CORR>   30814.0156     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.259999722     </MEAN_OBS>
+ <STDV_OBS>  0.633179069     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>REF</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.293211401     </MEAN>
+ <STDV>   1.18182029E-22 </STDV>
+ <BIAS>  0.656149805     </BIAS>
+ <RMSE>  0.321758538     </RMSE>
+ <CORR>   4.06162351E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.653462529     </BIAS>
+ <RMSE>  0.309158295     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   18452.0898     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.655830801     </BIAS>
+ <RMSE>  0.309123337     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   18532.1055     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.650102913     </BIAS>
+ <RMSE>  0.324965090     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   18312.0410     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.662994444     </BIAS>
+ <RMSE>  0.333321482     </RMSE>
+ <CORR>   30197.1211     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   18498.2578     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.661040902     </BIAS>
+ <RMSE>  0.312350333     </RMSE>
+ <CORR>   29856.4160     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.233846009     </MEAN_OBS>
+ <STDV_OBS>  0.595426083     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>REF</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>  0.276348442     </MEAN>
+ <STDV>   1.18182433E-22 </STDV>
+ <BIAS>  0.631933510     </BIAS>
+ <RMSE>  0.333619416     </RMSE>
+ <CORR>   8.13804687E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.613861978     </BIAS>
+ <RMSE>  0.348604620     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19050.3203     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.617092013     </BIAS>
+ <RMSE>  0.343856663     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   18797.3926     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.622658730     </BIAS>
+ <RMSE>  0.340027034     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   18380.5332     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.616195798     </BIAS>
+ <RMSE>  0.350228935     </RMSE>
+ <CORR>   31556.8066     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   18760.3438     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.631282985     </BIAS>
+ <RMSE>  0.331506580     </RMSE>
+ <CORR>   31280.7207     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.592508852     </MEAN_OBS>
+ <STDV_OBS>   1.05461478     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>REF</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>  0.605480433     </MEAN>
+ <STDV>   4.05980640E-28 </STDV>
+ <BIAS>   1.18813324     </BIAS>
+ <RMSE>  0.380446583     </RMSE>
+ <CORR>   4.04379133E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.20564175     </BIAS>
+ <RMSE>  0.411518335     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   16293.1240     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17636478     </BIAS>
+ <RMSE>  0.424690694     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   16483.1875     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17985868     </BIAS>
+ <RMSE>  0.416444004     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   16365.1943     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.13493705     </BIAS>
+ <RMSE>  0.490774482     </RMSE>
+ <CORR>   26462.0840     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   16358.8320     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.19253135     </BIAS>
+ <RMSE>  0.416693270     </RMSE>
+ <CORR>   26205.9043     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.142295018     </MEAN_OBS>
+ <STDV_OBS>  0.806082726     </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>REF</NAME>
+ <NUM>         305 </NUM>
+ <MEAN>  0.371279389     </MEAN>
+ <STDV>   4.05748710E-28 </STDV>
+ <BIAS>  0.701603889     </BIAS>
+ <RMSE>  0.415765017     </RMSE>
+ <CORR>   8.24003018E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         305 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.727266252     </BIAS>
+ <RMSE>  0.418509722     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         305 </NUM>
+ <MEAN>   19442.6016     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.735277057     </BIAS>
+ <RMSE>  0.416397631     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         305 </NUM>
+ <MEAN>   19413.5410     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.728346407     </BIAS>
+ <RMSE>  0.444921285     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         305 </NUM>
+ <MEAN>   19203.9805     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.752971709     </BIAS>
+ <RMSE>  0.449567974     </RMSE>
+ <CORR>   28297.9941     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         305 </NUM>
+ <MEAN>   19645.1367     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.737129331     </BIAS>
+ <RMSE>  0.417744070     </RMSE>
+ <CORR>   28274.3691     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.362429380     </MEAN_OBS>
+ <STDV_OBS>   1.04007745     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>REF</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>  0.475188792     </MEAN>
+ <STDV>   4.04379133E-28 </STDV>
+ <BIAS>  0.856366456     </BIAS>
+ <RMSE>  0.556630135     </RMSE>
+ <CORR>   8.12010123E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.861649632     </BIAS>
+ <RMSE>  0.566718757     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>   17705.5273     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.861510754     </BIAS>
+ <RMSE>  0.558391631     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>   17756.6953     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.861712396     </BIAS>
+ <RMSE>  0.559709013     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>   17757.8184     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.917751968     </BIAS>
+ <RMSE>  0.555990040     </RMSE>
+ <CORR>   30490.2852     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>   17832.5664     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.861785948     </BIAS>
+ <RMSE>  0.564376533     </RMSE>
+ <CORR>   30184.0586     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.592035770     </MEAN_OBS>
+ <STDV_OBS>  0.748515785     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>REF</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>  0.364479780     </MEAN>
+ <STDV>   4.05976017E-28 </STDV>
+ <BIAS>  0.852243781     </BIAS>
+ <RMSE>  0.531389892     </RMSE>
+ <CORR>   4.04225829E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.836578071     </BIAS>
+ <RMSE>  0.557358623     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   19937.7461     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.834715903     </BIAS>
+ <RMSE>  0.561281443     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   19734.4121     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.837177694     </BIAS>
+ <RMSE>  0.554918349     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   20091.8320     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.814052105     </BIAS>
+ <RMSE>  0.574686646     </RMSE>
+ <CORR>   28678.6836     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         339 </NUM>
+ <MEAN>   19972.4531     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.837606192     </BIAS>
+ <RMSE>  0.556840181     </RMSE>
+ <CORR>   28283.3066     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.212727234     </MEAN_OBS>
+ <STDV_OBS>  0.926893771     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>REF</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.377674520     </MEAN>
+ <STDV>   8.12010123E-23 </STDV>
+ <BIAS>  0.647895098     </BIAS>
+ <RMSE>  0.719873667     </RMSE>
+ <CORR>   8.25819354E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.667933285     </BIAS>
+ <RMSE>  0.719481826     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   13414.4102     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.672830760     </BIAS>
+ <RMSE>  0.716408551     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   13847.1562     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.701885879     </BIAS>
+ <RMSE>  0.704530835     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   13413.8936     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.705712974     </BIAS>
+ <RMSE>  0.714752555     </RMSE>
+ <CORR>   14394.1895     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   13673.4414     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.680065811     </BIAS>
+ <RMSE>  0.711031318     </RMSE>
+ <CORR>   14814.8809     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.533644497     </MEAN_OBS>
+ <STDV_OBS>  0.912706494     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>REF</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>  0.476012647     </MEAN>
+ <STDV>   4.04222747E-28 </STDV>
+ <BIAS>   1.21220326     </BIAS>
+ <RMSE>  0.343937457     </RMSE>
+ <CORR>   1.18182029E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.22195148     </BIAS>
+ <RMSE>  0.355545789     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   5.79793406     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23972213     </BIAS>
+ <RMSE>  0.370263666     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   5.82340288     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19529235     </BIAS>
+ <RMSE>  0.367409736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   5.76565504     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.25029790     </BIAS>
+ <RMSE>  0.281744152     </RMSE>
+ <CORR>   8.20497513     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   5.74736786     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.20372009     </BIAS>
+ <RMSE>  0.363429755     </RMSE>
+ <CORR>   8.26410198     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.136615366     </MEAN_OBS>
+ <STDV_OBS>  0.707081497     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>REF</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>  0.346341938     </MEAN>
+ <STDV>   8.24003018E-23 </STDV>
+ <BIAS>  0.594897926     </BIAS>
+ <RMSE>  0.554441929     </RMSE>
+ <CORR>   4.05757954E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.593268871     </BIAS>
+ <RMSE>  0.559629261     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19028.5723     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.589941025     </BIAS>
+ <RMSE>  0.563012242     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19363.0566     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.599863887     </BIAS>
+ <RMSE>  0.557310522     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19389.1309     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.626407981     </BIAS>
+ <RMSE>  0.536384523     </RMSE>
+ <CORR>   31358.6719     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19264.9707     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.588468015     </BIAS>
+ <RMSE>  0.563807309     </RMSE>
+ <CORR>   31277.3828     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09501708     </MEAN_OBS>
+ <STDV_OBS>   2.24674845     </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>REF</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   1.24238157     </MEAN>
+ <STDV>   4.06117670E-28 </STDV>
+ <BIAS>   2.35729814     </BIAS>
+ <RMSE>  0.556589186     </RMSE>
+ <CORR>   4.04379133E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   2.08665705     </BIAS>
+ <RMSE>  0.598333657     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   15810.6660     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.91046691     </BIAS>
+ <RMSE>  0.528643191     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   15836.8242     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.01218057     </BIAS>
+ <RMSE>  0.581457198     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   15644.8730     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.97077739     </BIAS>
+ <RMSE>  0.580137908     </RMSE>
+ <CORR>   33579.2656     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   16058.8682     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   2.04629087     </BIAS>
+ <RMSE>  0.500255406     </RMSE>
+ <CORR>   33328.9609     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.75609794E-02 </MEAN_OBS>
+ <STDV_OBS>  0.494538009     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>  0.143695921     </MEAN>
+ <STDV>   4.05757954E-28 </STDV>
+ <BIAS>  0.414768100     </BIAS>
+ <RMSE>  0.598396242     </RMSE>
+ <CORR>   1.17716500E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.406204432     </BIAS>
+ <RMSE>  0.610735118     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   21598.2383     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.406448662     </BIAS>
+ <RMSE>  0.610687613     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   21156.9414     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.409160376     </BIAS>
+ <RMSE>  0.607473254     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   21985.5156     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.402434796     </BIAS>
+ <RMSE>  0.615355313     </RMSE>
+ <CORR>   29539.3574     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   21290.8730     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.404751003     </BIAS>
+ <RMSE>  0.613959193     </RMSE>
+ <CORR>   29315.9199     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.14905117E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209915027     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   5.39785214E-02 </MEAN>
+ <STDV>   4.04221158E-28 </STDV>
+ <BIAS>  0.228992358     </BIAS>
+ <RMSE>  0.120946191     </RMSE>
+ <CORR>   8.13804624E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.231647775     </BIAS>
+ <RMSE>  0.140723735     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14066.5791     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.231212705     </BIAS>
+ <RMSE>  0.143826455     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14185.8672     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.231447086     </BIAS>
+ <RMSE>  0.137237117     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14061.3330     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.226104751     </BIAS>
+ <RMSE>  0.160909057     </RMSE>
+ <CORR>   24671.1660     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14042.2529     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.233542889     </BIAS>
+ <RMSE>  0.136147916     </RMSE>
+ <CORR>   24472.4531     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.157452643     </MEAN_OBS>
+ <STDV_OBS>  0.420649141     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>  0.199251354     </MEAN>
+ <STDV>   1.17716096E-22 </STDV>
+ <BIAS>  0.493759841     </BIAS>
+ <RMSE>  0.137411982     </RMSE>
+ <CORR>   4.04379133E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.485182226     </BIAS>
+ <RMSE>  0.154657051     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16453.9941     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.483915180     </BIAS>
+ <RMSE>  0.212535501     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16414.2539     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.498516619     </BIAS>
+ <RMSE>  0.210052565     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16087.3379     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.493728757     </BIAS>
+ <RMSE>  0.181216791     </RMSE>
+ <CORR>   32677.6602     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16502.6445     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.483810276     </BIAS>
+ <RMSE>  0.182592794     </RMSE>
+ <CORR>   32728.8027     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.183475748     </MEAN_OBS>
+ <STDV_OBS>  0.226285592     </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>REF</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   7.54577741E-02 </MEAN>
+ <STDV>   4.05982132E-28 </STDV>
+ <BIAS>  0.524799228     </BIAS>
+ <RMSE>  0.102470145     </RMSE>
+ <CORR>   1.17730662E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.505232990     </BIAS>
+ <RMSE>  0.198506176     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   18826.1035     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.511825562     </BIAS>
+ <RMSE>  0.165997997     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   19217.6367     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.508199990     </BIAS>
+ <RMSE>  0.189166456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   18707.1094     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.517328978     </BIAS>
+ <RMSE>  0.137483329     </RMSE>
+ <CORR>   34495.4688     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   18947.8848     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.493119836     </BIAS>
+ <RMSE>  0.257696092     </RMSE>
+ <CORR>   34196.5430     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.71253774E-02 </MEAN_OBS>
+ <STDV_OBS>  0.173868001     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>REF</NAME>
+ <NUM>         327 </NUM>
+ <MEAN>   6.32873029E-02 </MEAN>
+ <STDV>   4.04379133E-28 </STDV>
+ <BIAS>  0.150338963     </BIAS>
+ <RMSE>  0.356351167     </RMSE>
+ <CORR>   8.13804624E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         327 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.148985803     </BIAS>
+ <RMSE>  0.410721213     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         327 </NUM>
+ <MEAN>   15416.6973     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.196789414     </BIAS>
+ <RMSE>  0.400975406     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         327 </NUM>
+ <MEAN>   15436.7295     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.195325479     </BIAS>
+ <RMSE>  0.410367310     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         327 </NUM>
+ <MEAN>   15117.5957     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.179936573     </BIAS>
+ <RMSE>  0.401369959     </RMSE>
+ <CORR>   35309.1133     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         327 </NUM>
+ <MEAN>   15384.5635     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.159888819     </BIAS>
+ <RMSE>  0.398964852     </RMSE>
+ <CORR>   35031.2734     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.151219517     </MEAN_OBS>
+ <STDV_OBS>  0.324513674     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>  0.123421930     </MEAN>
+ <STDV>   8.25819354E-23 </STDV>
+ <BIAS>  0.514457047     </BIAS>
+ <RMSE>   2.50053015E-02 </RMSE>
+ <CORR>   4.04222747E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.499413729     </BIAS>
+ <RMSE>   9.94312316E-02 </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15805.4551     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.481424630     </BIAS>
+ <RMSE>  0.179526389     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15834.3828     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.491879135     </BIAS>
+ <RMSE>   8.96376893E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15457.0273     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.473355740     </BIAS>
+ <RMSE>  0.126221016     </RMSE>
+ <CORR>   32012.6523     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15877.6055     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.508071303     </BIAS>
+ <RMSE>   4.07390185E-02 </RMSE>
+ <CORR>   31920.2910     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.38482449E-02 </MEAN_OBS>
+ <STDV_OBS>  0.156826794     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   5.19517362E-02 </MEAN>
+ <STDV>   4.05974429E-28 </STDV>
+ <BIAS>  0.178343907     </BIAS>
+ <RMSE>  0.148214579     </RMSE>
+ <CORR>   1.18182042E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.164813787     </BIAS>
+ <RMSE>  0.155966848     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16743.2305     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.163436696     </BIAS>
+ <RMSE>  0.161636084     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   17236.1797     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.174159139     </BIAS>
+ <RMSE>  0.162700698     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16681.1641     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.165593788     </BIAS>
+ <RMSE>  0.176549524     </RMSE>
+ <CORR>   32943.5312     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16888.1543     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.164904594     </BIAS>
+ <RMSE>  0.152719319     </RMSE>
+ <CORR>   32434.2109     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.197590366     </MEAN_OBS>
+ <STDV_OBS>  0.594984531     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>REF</NAME>
+ <NUM>         332 </NUM>
+ <MEAN>  0.252526194     </MEAN>
+ <STDV>   4.04225829E-28 </STDV>
+ <BIAS>  0.503637731     </BIAS>
+ <RMSE>  0.557905793     </RMSE>
+ <CORR>   8.12010123E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         332 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.524487615     </BIAS>
+ <RMSE>  0.533627033     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         332 </NUM>
+ <MEAN>   19388.8672     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.515262485     </BIAS>
+ <RMSE>  0.547304928     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         332 </NUM>
+ <MEAN>   19591.0508     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.509704649     </BIAS>
+ <RMSE>  0.556897581     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         332 </NUM>
+ <MEAN>   19306.0566     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.507663786     </BIAS>
+ <RMSE>  0.559187174     </RMSE>
+ <CORR>   38627.1797     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         332 </NUM>
+ <MEAN>   19459.3477     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.520738065     </BIAS>
+ <RMSE>  0.538464308     </RMSE>
+ <CORR>   38226.6289     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.219512194     </MEAN_OBS>
+ <STDV_OBS>  0.325062424     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   9.10081267E-02 </MEAN>
+ <STDV>   4.05606913E-28 </STDV>
+ <BIAS>  0.699493468     </BIAS>
+ <RMSE>  0.359830230     </RMSE>
+ <CORR>   4.04222699E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.681458771     </BIAS>
+ <RMSE>  0.401458979     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   17875.9395     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.681715310     </BIAS>
+ <RMSE>  0.400819838     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   18254.9316     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.682283401     </BIAS>
+ <RMSE>  0.398786157     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   17872.9805     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.705019891     </BIAS>
+ <RMSE>  0.347002208     </RMSE>
+ <CORR>   31576.7246     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   17884.9785     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.681476653     </BIAS>
+ <RMSE>  0.401489347     </RMSE>
+ <CORR>   31536.8125     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.34145960E-02 </MEAN_OBS>
+ <STDV_OBS>  0.150686607     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.97323295E-02 </MEAN>
+ <STDV>   1.17731053E-22 </STDV>
+ <BIAS>  0.261108547     </BIAS>
+ <RMSE>   4.17875722E-02 </RMSE>
+ <CORR>   1.18182029E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.250914037     </BIAS>
+ <RMSE>   4.89221476E-02 </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16306.0996     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.245978296     </BIAS>
+ <RMSE>   6.70028999E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16530.0020     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.249903217     </BIAS>
+ <RMSE>   5.16150780E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16381.4551     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.252745479     </BIAS>
+ <RMSE>   6.01525605E-02 </RMSE>
+ <CORR>   29634.2012     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16289.8818     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.250708431     </BIAS>
+ <RMSE>   5.17759845E-02 </RMSE>
+ <CORR>   29416.0059     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.146341473     </MEAN_OBS>
+ <STDV_OBS>  0.602401495     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>  0.222446993     </MEAN>
+ <STDV>   4.04357562E-28 </STDV>
+ <BIAS>  0.653942585     </BIAS>
+ <RMSE>  0.249798357     </RMSE>
+ <CORR>   8.11806281E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.651760757     </BIAS>
+ <RMSE>  0.266906232     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   19327.2188     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.652125418     </BIAS>
+ <RMSE>  0.265033841     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   19410.2285     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.655110478     </BIAS>
+ <RMSE>  0.260378301     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   18839.7266     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.663331807     </BIAS>
+ <RMSE>  0.259923875     </RMSE>
+ <CORR>   32414.7148     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   19230.7734     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.653112769     </BIAS>
+ <RMSE>  0.264795661     </RMSE>
+ <CORR>   32158.9941     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.346341312     </MEAN_OBS>
+ <STDV_OBS>  0.266581446     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   4.91059124E-02 </MEAN>
+ <STDV>   4.06162351E-28 </STDV>
+ <BIAS>   1.26026714     </BIAS>
+ <RMSE>  0.397153497     </RMSE>
+ <CORR>   4.04222699E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.26229501     </BIAS>
+ <RMSE>  0.392096043     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16733.5645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26257360     </BIAS>
+ <RMSE>  0.391180366     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16854.8574     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25918221     </BIAS>
+ <RMSE>  0.402628750     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16495.0918     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.26589060     </BIAS>
+ <RMSE>  0.372113526     </RMSE>
+ <CORR>   36010.3789     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   16857.6855     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.26241577     </BIAS>
+ <RMSE>  0.391720802     </RMSE>
+ <CORR>   35602.5977     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.403880686     </MEAN_OBS>
+ <STDV_OBS>  0.590094984     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>REF</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>  0.247304827     </MEAN>
+ <STDV>   8.26003190E-23 </STDV>
+ <BIAS>  0.829356015     </BIAS>
+ <RMSE>  0.415747881     </RMSE>
+ <CORR>   1.18182042E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.815509319     </BIAS>
+ <RMSE>  0.431150317     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   13212.6250     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.811881959     </BIAS>
+ <RMSE>  0.434338242     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   13293.6230     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.824144602     </BIAS>
+ <RMSE>  0.420541734     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   13422.1416     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.819897890     </BIAS>
+ <RMSE>  0.428173393     </RMSE>
+ <CORR>   18810.6719     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         335 </NUM>
+ <MEAN>   13299.2207     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.813342750     </BIAS>
+ <RMSE>  0.432649940     </RMSE>
+ <CORR>   18760.6602     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110749245     </MEAN_OBS>
+ <STDV_OBS>  0.699704528     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>REF</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>  0.297829747     </MEAN>
+ <STDV>   4.04349858E-28 </STDV>
+ <BIAS>  0.617429733     </BIAS>
+ <RMSE>  0.423216432     </RMSE>
+ <CORR>   8.13804687E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.641821563     </BIAS>
+ <RMSE>  0.407350510     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   18910.4043     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.633466601     </BIAS>
+ <RMSE>  0.411930054     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   18991.7500     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.643227637     </BIAS>
+ <RMSE>  0.401079208     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   18704.4727     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.625524282     </BIAS>
+ <RMSE>  0.418099254     </RMSE>
+ <CORR>   32828.5938     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         307 </NUM>
+ <MEAN>   18876.5508     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.638079703     </BIAS>
+ <RMSE>  0.407033086     </RMSE>
+ <CORR>   32692.2480     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.321951210     </MEAN_OBS>
+ <STDV_OBS>  0.406185091     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>  0.117690444     </MEAN>
+ <STDV>   1.18182042E-22 </STDV>
+ <BIAS>   1.09565568     </BIAS>
+ <RMSE>  0.331166029     </RMSE>
+ <CORR>   4.05605372E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.09049845     </BIAS>
+ <RMSE>  0.342336446     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   19755.7305     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09087050     </BIAS>
+ <RMSE>  0.341482848     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   19773.6133     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09146488     </BIAS>
+ <RMSE>  0.340217501     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   19450.4629     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.10005128     </BIAS>
+ <RMSE>  0.321556866     </RMSE>
+ <CORR>   31372.6348     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   19545.3145     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.08982468     </BIAS>
+ <RMSE>  0.343892455     </RMSE>
+ <CORR>   31448.3613     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266005695     </MEAN_OBS>
+ <STDV_OBS>  0.461157382     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>REF</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>  0.122539423     </MEAN>
+ <STDV>   4.05747169E-28 </STDV>
+ <BIAS>  0.822955608     </BIAS>
+ <RMSE>  0.483124405     </RMSE>
+ <CORR>   4.04225780E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.823643863     </BIAS>
+ <RMSE>  0.481732398     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>   18157.5000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.826302528     </BIAS>
+ <RMSE>  0.476698935     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>   18030.4570     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.819333315     </BIAS>
+ <RMSE>  0.489950150     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>   18087.1582     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.827558994     </BIAS>
+ <RMSE>  0.474559456     </RMSE>
+ <CORR>   31724.5391     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>   18182.0957     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.823827446     </BIAS>
+ <RMSE>  0.481385767     </RMSE>
+ <CORR>   31461.1113     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.275783390     </MEAN_OBS>
+ <STDV_OBS>  0.671689987     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>REF</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>  0.198031694     </MEAN>
+ <STDV>   1.18182446E-22 </STDV>
+ <BIAS>  0.834315479     </BIAS>
+ <RMSE>  0.526713669     </RMSE>
+ <CORR>   8.13804624E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.824095607     </BIAS>
+ <RMSE>  0.538481534     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   11289.4111     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.823517680     </BIAS>
+ <RMSE>  0.539084733     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   11329.7236     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.820551574     </BIAS>
+ <RMSE>  0.543577194     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   11704.9678     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.829544842     </BIAS>
+ <RMSE>  0.530285478     </RMSE>
+ <CORR>   14714.7109     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   11360.6865     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.824935794     </BIAS>
+ <RMSE>  0.537430525     </RMSE>
+ <CORR>   14412.4707     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.536585510     </MEAN_OBS>
+ <STDV_OBS>   1.30382419     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>  0.367343366     </MEAN>
+ <STDV>   4.04357562E-28 </STDV>
+ <BIAS>   1.18723738     </BIAS>
+ <RMSE>  0.673179388     </RMSE>
+ <CORR>   4.05745676E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.17904246     </BIAS>
+ <RMSE>  0.677520752     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14431.3438     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17929733     </BIAS>
+ <RMSE>  0.677564561     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14301.2607     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18257785     </BIAS>
+ <RMSE>  0.676320791     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14478.9463     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.18531954     </BIAS>
+ <RMSE>  0.674246967     </RMSE>
+ <CORR>   18961.0293     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   14703.8027     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.18069756     </BIAS>
+ <RMSE>  0.676707447     </RMSE>
+ <CORR>   18880.0488     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137694702     </MEAN_OBS>
+ <STDV_OBS>  0.718753994     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>REF</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>  0.282789022     </MEAN>
+ <STDV>   4.06009866E-28 </STDV>
+ <BIAS>  0.521915555     </BIAS>
+ <RMSE>  0.693076015     </RMSE>
+ <CORR>   4.04225780E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.519501567     </BIAS>
+ <RMSE>  0.697731078     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   18589.2129     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.518592834     </BIAS>
+ <RMSE>  0.698483706     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   18596.7090     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.526243687     </BIAS>
+ <RMSE>  0.692173302     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   18598.0840     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.538563073     </BIAS>
+ <RMSE>  0.686909437     </RMSE>
+ <CORR>   29915.0859     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         321 </NUM>
+ <MEAN>   18686.8320     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.519461513     </BIAS>
+ <RMSE>  0.698096931     </RMSE>
+ <CORR>   29805.2148     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.303384811     </MEAN_OBS>
+ <STDV_OBS>   1.12819171     </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>REF</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>  0.228631973     </MEAN>
+ <STDV>   8.24003081E-23 </STDV>
+ <BIAS>   1.16684902     </BIAS>
+ <RMSE>  0.169579908     </RMSE>
+ <CORR>   8.12010123E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.14332402     </BIAS>
+ <RMSE>  0.179828629     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19747.1445     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14942443     </BIAS>
+ <RMSE>  0.176078036     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19672.4824     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15714133     </BIAS>
+ <RMSE>  0.174768358     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   20243.3438     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.15031922     </BIAS>
+ <RMSE>  0.170711949     </RMSE>
+ <CORR>   31570.6270     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         325 </NUM>
+ <MEAN>   19843.3125     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.14636505     </BIAS>
+ <RMSE>  0.182722360     </RMSE>
+ <CORR>   31233.1738     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.206060573     </MEAN_OBS>
+ <STDV_OBS>  0.285865247     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>REF</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   6.27980456E-02 </MEAN>
+ <STDV>   4.04225780E-28 </STDV>
+ <BIAS>  0.484173268     </BIAS>
+ <RMSE>  0.564363897     </RMSE>
+ <CORR>   4.04222747E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.486272067     </BIAS>
+ <RMSE>  0.561517954     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   19660.8711     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.487035304     </BIAS>
+ <RMSE>  0.558979213     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   19726.1758     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.483356357     </BIAS>
+ <RMSE>  0.565400600     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   19301.8770     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.484739691     </BIAS>
+ <RMSE>  0.563894272     </RMSE>
+ <CORR>   32085.3574     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   19548.5352     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.484930575     </BIAS>
+ <RMSE>  0.564187825     </RMSE>
+ <CORR>   31871.2363     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.161959663     </MEAN_OBS>
+ <STDV_OBS>  0.732210577     </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>REF</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>  0.140842602     </MEAN>
+ <STDV>   1.17730649E-22 </STDV>
+ <BIAS>  0.740733624     </BIAS>
+ <RMSE>  0.182514295     </RMSE>
+ <CORR>   4.06117670E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.738983154     </BIAS>
+ <RMSE>  0.179874554     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>   17436.4805     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.739038408     </BIAS>
+ <RMSE>  0.178523332     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>   17477.0918     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.746568024     </BIAS>
+ <RMSE>  0.177480370     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>   17236.5742     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.741483986     </BIAS>
+ <RMSE>  0.174590901     </RMSE>
+ <CORR>   37298.7969     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>   17359.5059     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.742808878     </BIAS>
+ <RMSE>  0.178071976     </RMSE>
+ <CORR>   37227.1719     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.91640633E-02 </MEAN_OBS>
+ <STDV_OBS>  0.286359578     </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>REF</NAME>
+ <NUM>         323 </NUM>
+ <MEAN>   6.87043443E-02 </MEAN>
+ <STDV>   4.04222747E-28 </STDV>
+ <BIAS>  0.378263652     </BIAS>
+ <RMSE>  0.287687689     </RMSE>
+ <CORR>   8.13804624E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         323 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.381015360     </BIAS>
+ <RMSE>  0.281914622     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         323 </NUM>
+ <MEAN>   16986.8730     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.388060987     </BIAS>
+ <RMSE>  0.267391473     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         323 </NUM>
+ <MEAN>   16968.1621     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.381323844     </BIAS>
+ <RMSE>  0.282536149     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         323 </NUM>
+ <MEAN>   16811.5000     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.381586343     </BIAS>
+ <RMSE>  0.286024719     </RMSE>
+ <CORR>   34369.3281     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         323 </NUM>
+ <MEAN>   16975.7383     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.384180129     </BIAS>
+ <RMSE>  0.274493843     </RMSE>
+ <CORR>   34105.6680     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.109183654     </MEAN_OBS>
+ <STDV_OBS>  0.567172647     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>REF</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>  0.162794858     </MEAN>
+ <STDV>   4.06117670E-28 </STDV>
+ <BIAS>  0.529604018     </BIAS>
+ <RMSE>  0.353095114     </RMSE>
+ <CORR>   4.04221158E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.531543911     </BIAS>
+ <RMSE>  0.351168185     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   17878.0332     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.528259218     </BIAS>
+ <RMSE>  0.352005154     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   17837.6836     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.529442012     </BIAS>
+ <RMSE>  0.354018658     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   17766.3223     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.523807585     </BIAS>
+ <RMSE>  0.360536665     </RMSE>
+ <CORR>   36050.5625     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   17851.5000     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.531160772     </BIAS>
+ <RMSE>  0.350332528     </RMSE>
+ <CORR>   35933.8359     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.314127386     </MEAN_OBS>
+ <STDV_OBS>  0.521335006     </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>REF</NAME>
+ <NUM>         361 </NUM>
+ <MEAN>  0.131942138     </MEAN>
+ <STDV>   4.05982132E-28 </STDV>
+ <BIAS>  0.682404816     </BIAS>
+ <RMSE>  0.646501482     </RMSE>
+ <CORR>   1.17730258E-22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         361 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.683764279     </BIAS>
+ <RMSE>  0.645174861     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         361 </NUM>
+ <MEAN>   22488.9434     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.683108687     </BIAS>
+ <RMSE>  0.646106720     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         361 </NUM>
+ <MEAN>   22843.5078     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.682874262     </BIAS>
+ <RMSE>  0.645956635     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         361 </NUM>
+ <MEAN>   22472.7480     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.683468938     </BIAS>
+ <RMSE>  0.645795226     </RMSE>
+ <CORR>   30308.0781     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         361 </NUM>
+ <MEAN>   22586.9219     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.682420433     </BIAS>
+ <RMSE>  0.646729052     </RMSE>
+ <CORR>   30318.5840     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.38482393E-02 </MEAN_OBS>
+ <STDV_OBS>  0.181743637     </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>REF</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   4.44538034E-02 </MEAN>
+ <STDV>   4.04221158E-28 </STDV>
+ <BIAS>  0.212981462     </BIAS>
+ <RMSE>  -3.77498791E-02 </RMSE>
+ <CORR>   8.13804687E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.205170959     </BIAS>
+ <RMSE>  0.124425478     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15517.6123     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209972247     </BIAS>
+ <RMSE>   7.91580528E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15584.8916     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.213177741     </BIAS>
+ <RMSE>  0.132245108     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15187.6270     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.215356350     </BIAS>
+ <RMSE>  -3.88112962E-02 </RMSE>
+ <CORR>   34711.6797     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         369 </NUM>
+ <MEAN>   15492.5283     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.207821146     </BIAS>
+ <RMSE>  0.123621128     </RMSE>
+ <CORR>   34449.9453     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.183783874     </MEAN_OBS>
+ <STDV_OBS>  0.169261187     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>REF</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   3.94204743E-02 </MEAN>
+ <STDV>   1.17730258E-22 </STDV>
+ <BIAS>  0.701159298     </BIAS>
+ <RMSE>  -2.85523050E-02 </RMSE>
+ <CORR>   4.06162351E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.700537503     </BIAS>
+ <RMSE>  -2.03827880E-02 </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   14173.6924     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.701934040     </BIAS>
+ <RMSE>  -3.20615023E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   14251.2227     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.700698435     </BIAS>
+ <RMSE>  -2.74436548E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   13896.5273     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.698752046     </BIAS>
+ <RMSE>  -1.83487330E-02 </RMSE>
+ <CORR>   32218.3145     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         333 </NUM>
+ <MEAN>   14312.6416     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.702213883     </BIAS>
+ <RMSE>  -3.28522846E-02 </RMSE>
+ <CORR>   32192.8809     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.189743608     </MEAN_OBS>
+ <STDV_OBS>  0.553981125     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>REF</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>  0.143128201     </MEAN>
+ <STDV>   4.05757954E-28 </STDV>
+ <BIAS>  0.674347222     </BIAS>
+ <RMSE>  0.391674697     </RMSE>
+ <CORR>   8.24003081E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.679941416     </BIAS>
+ <RMSE>  0.387464583     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   16479.7266     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.681272447     </BIAS>
+ <RMSE>  0.384871781     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   16459.2715     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.677015722     </BIAS>
+ <RMSE>  0.388687760     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   16157.4531     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.667860150     </BIAS>
+ <RMSE>  0.398537487     </RMSE>
+ <CORR>   35700.7305     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   16441.4746     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.678486526     </BIAS>
+ <RMSE>  0.388063729     </RMSE>
+ <CORR>   35613.5430     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.585566640     </MEAN_OBS>
+ <STDV_OBS>   1.64811599     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>REF</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>  0.763392031     </MEAN>
+ <STDV>   1.18182029E-22 </STDV>
+ <BIAS>   1.48868740     </BIAS>
+ <RMSE>  0.438766301     </RMSE>
+ <CORR>   8.13804624E-23 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>   1.51080859     </BIAS>
+ <RMSE>  0.402320743     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>   15963.8311     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44800901     </BIAS>
+ <RMSE>  0.384781897     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>   16050.7891     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38159275     </BIAS>
+ <RMSE>  0.386863619     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>   15562.0605     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>   1.57054186     </BIAS>
+ <RMSE>  0.424997061     </RMSE>
+ <CORR>   34550.2891     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         291 </NUM>
+ <MEAN>   15970.5430     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>   1.51702535     </BIAS>
+ <RMSE>  0.394190043     </RMSE>
+ <CORR>   34475.5586     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.189743519     </MEAN_OBS>
+ <STDV_OBS>  0.655858219     </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>REF</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>  0.142398551     </MEAN>
+ <STDV>   8.24003081E-23 </STDV>
+ <BIAS>  0.393044680     </BIAS>
+ <RMSE>  0.799262285     </RMSE>
+ <CORR>   4.04379084E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.388316572     </BIAS>
+ <RMSE>  0.802248597     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   20512.5156     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.389015377     </BIAS>
+ <RMSE>  0.801580012     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   20542.7793     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.393485755     </BIAS>
+ <RMSE>  0.801345289     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   20253.6562     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.387513191     </BIAS>
+ <RMSE>  0.801622152     </RMSE>
+ <CORR>   24030.8301     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         351 </NUM>
+ <MEAN>   20349.1660     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.392345548     </BIAS>
+ <RMSE>  0.801283240     </RMSE>
+ <CORR>   23846.7207     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.94736938E-02 </MEAN_OBS>
+ <STDV_OBS>  0.377168357     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>REF</NAME>
+ <NUM>         228 </NUM>
+ <MEAN>  0.130036741     </MEAN>
+ <STDV>   4.05982132E-28 </STDV>
+ <BIAS>  0.315013498     </BIAS>
+ <RMSE>  0.548522294     </RMSE>
+ <CORR>   4.05605372E-28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob0km_dt30min_copolspd</NAME>
+ <NUM>         228 </NUM>
+ <MEAN>   3.30468217E-41 </MEAN>
+ <STDV>   3.30468217E-41 </STDV>
+ <BIAS>  0.334146380     </BIAS>
+ <RMSE>  0.544694185     </RMSE>
+ <CORR>   3.30468217E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob25km_dt30min_copolspd</NAME>
+ <NUM>         228 </NUM>
+ <MEAN>  0.229943484     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.334230542     </BIAS>
+ <RMSE>  0.544490635     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob25km_dt30min_sarospd</NAME>
+ <NUM>         228 </NUM>
+ <MEAN>  0.228669822     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.344377548     </BIAS>
+ <RMSE>  0.522994339     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob25km_dt90min_cpspd</NAME>
+ <NUM>         228 </NUM>
+ <MEAN>  0.232948542     </MEAN>
+ <STDV>   7.44110606E+28 </STDV>
+ <BIAS>  0.342204481     </BIAS>
+ <RMSE>  0.526935279     </RMSE>
+ <CORR>  0.240247115     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob50km_dt30min_copolspd</NAME>
+ <NUM>         228 </NUM>
+ <MEAN>  0.228480965     </MEAN>
+ <STDV>   1.77421424E+22 </STDV>
+ <BIAS>  0.332286119     </BIAS>
+ <RMSE>  0.549829781     </RMSE>
+ <CORR>  0.238821670     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
